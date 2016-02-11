@@ -1,0 +1,34 @@
+_repo: Martti-Salander-Romaani_50516
+contributor:
+  translator:
+    agent_name: Wilkuna, Kyösti
+    alias: Wilkuna, Kyosti
+    birthdate: 1879
+    deathdate: 1922
+    gutenberg_agent_id: '4879'
+    url: http://www.gutenberg.org/2009/agents/4879
+    wikipedia: http://fi.wikipedia.org/wiki/Ky%C3%B6sti_Wilkuna
+creator:
+  author:
+    agent_name: Keller, Gottfried
+    alias: Keller, Gotfryd
+    birthdate: 1819
+    deathdate: 1890
+    gutenberg_agent_id: '2159'
+    url: http://www.gutenberg.org/2009/agents/2159
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Gottfried_Keller
+    - http://en.wikipedia.org/wiki/Gottfried_Keller
+description: ''
+gutenberg_issued: '2015-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50516'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Martti Salander
+
+  Romaani'
+url: http://www.gutenberg.org/ebooks/50516
