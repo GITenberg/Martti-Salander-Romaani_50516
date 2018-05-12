@@ -1,4 +1,5 @@
 _repo: Martti-Salander-Romaani_50516
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wilkuna, Kyösti
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4879'
     url: http://www.gutenberg.org/2009/agents/4879
     wikipedia: http://fi.wikipedia.org/wiki/Ky%C3%B6sti_Wilkuna
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Keller, Gottfried
@@ -20,6 +24,8 @@ creator:
     - http://de.wikipedia.org/wiki/Gottfried_Keller
     - http://en.wikipedia.org/wiki/Gottfried_Keller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50516#Martti-Salander-Romaani
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
